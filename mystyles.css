@@ -1,0 +1,72 @@
+h1{
+    font-family: monospace;
+    font-size: 3em;
+    word-spacing: 1px;
+    
+}
+p{
+    font-style:italic;
+    font-weight: bold;
+
+}
+
+#survey-form{
+  
+    width: 700px;
+    height: 990px;
+    margin:25px;
+    background-color:#cad1db;
+    font-size: 1.5em;
+    Border-color:lightgray;s
+    Border-style:inset;
+    border-radius:15px;
+    line-height:35px;
+    position:relative;
+    left: 365px;
+ 
+    
+}
+
+#name{
+    border: 1px outset lightgray;
+    border-radius: 5px;
+    width: 30%;
+    margin:-5px;
+  
+}
+
+
+}
+
+#email{
+    border:1px outset lightgray;
+    border-radius: 5px;
+    width:30%;
+    height 10%;
+    margin:-5px;
+    
+}
+
+#age{
+    border:1px outset lightgray;
+    border-radius: 5px;
+    width:30%;
+    height 10%;
+    margin:-5px;
+}
+
+#dropdown{
+    border:1px outset lightgray;
+    border-radius: 5px;
+    width:30%;
+    height 10%;
+}
+    
+
+
+
+body{
+    text-align:center;
+    font-family:serif;
+    background-color:#d5dce6;
+}
